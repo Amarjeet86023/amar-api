@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 8CAE-A73D
-
- Directory of C:\Users\amarjeet.c.kumar\Desktop\MyProject
-
-04/24/2020  01:19 AM    <DIR>          .
-04/24/2020  01:19 AM    <DIR>          ..
-04/24/2020  01:19 AM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  404,742,905,856 bytes free
+changes in file 1
